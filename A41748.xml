@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Marquiss De Grana, the King of Spain's vice-roy in the Spanish-Netherlands, his mandatory letter to all commanders, officers, and soldiers, to resist the French, and repel force with force. Done out of the original from Brussels.</title>
+            <author>Grana, Ottone Enrico dal Carretto, Marquis of.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41748</idno>
+            <idno type="STC">Wing G1483</idno>
+            <idno type="STC">ESTC R216563</idno>
+            <idno type="EEBO-CITATION">99828290</idno>
+            <idno type="PROQUEST">99828290</idno>
+            <idno type="VID">32717</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41748)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32717)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 1778:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Marquiss De Grana, the King of Spain's vice-roy in the Spanish-Netherlands, his mandatory letter to all commanders, officers, and soldiers, to resist the French, and repel force with force. Done out of the original from Brussels.</title>
+                  <author>Grana, Ottone Enrico dal Carretto, Marquis of.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Baldwin, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: O.H.M. D'alcaretto, i.e. Otto-Henry, Marquis of Carretto et Grana.</note>
+                  <note>Original not traced.</note>
+                  <note>Dated at end: Brussels, Octob. 12. 1683.</note>
+                  <note>reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>Netherlands --  History --  1648-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:32717:1" rendition="simple:additions"/>
+            <head>The Marquiſs De Grana, the King of Spain's Vice-Roy
+in the Spaniſh-Netherlands, His Mandatory Letter to
+all Commanders, Officers, and Soldiers, to Reſiſt
+the French, and Repel Force with Force.</head>
+            <head type="sub">Done out of the Original from Bruſſels.</head>
+            <p>THE Peace of <hi>Nimeguen</hi> having
+been concluded upon ſuch Con<g ref="char:EOLhyphen"/>ditions,
+as <hi>France</hi> it ſelf deſir'd,
+We had all the reaſon in the
+World to hope, That this Peace would
+have been put in Execution, and Ob<g ref="char:EOLhyphen"/>ſerved
+on their Part. But inſtead of
+contenting themſelves with the Advan<g ref="char:EOLhyphen"/>tages
+which they have got by their De<g ref="char:EOLhyphen"/>mands,
+and which we were willing to
+Sacrifice for the Repoſe of Chriſtendom,
+They have retarded for ſeveral Months
+the quitting of the Garriſons which ſhould
+have been ſurrendred back to his <hi>Catho<g ref="char:EOLhyphen"/>lick
+Majeſty,</hi> waſted by exceſſive Quarter<g ref="char:EOLhyphen"/>ing
+of Soldiers thoſe Places which ſhould
+have been reſtored, as well as thoſe which
+really and truly belong'd to him, and
+Ruin'd all his Majeſties Subjects, as well
+by Extortion of Contributions, beyond
+the Time limited by the <hi>Eighteenth Article</hi>
+of the Peace, as by ſeveral undue Exacti<g ref="char:EOLhyphen"/>ons
+and Sums already pay'd, and oppreſ<g ref="char:EOLhyphen"/>ſive
+Quota's with which His Majeſty has
+been charg'd. And altho' after all this,
+and the opening the Conference of <hi>Cour<g ref="char:EOLhyphen"/>tra,</hi>
+for an amicable reconciliation of all
+Differences between the Two Crowns,
+we did not expect any other Acts of Vio<g ref="char:EOLhyphen"/>lence,
+the Commiſſioners named on both
+Sides were hardly arrived at the Place ap<g ref="char:EOLhyphen"/>pointed,
+but the <hi>French</hi> enter'd <hi>Hainault</hi>
+and <hi>Flanders,</hi> with a great Army, with
+an intention, as they have done, to
+make themſelves Maſters of the City of
+<hi>Chievres,</hi> and ſeveral other Towns and
+Villages. They have got the Poſſeſſion
+of <hi>Charlemont,</hi> through their Threats of a
+general Invaſion into theſe Countries, two
+Months before the Time prefixed by the
+Treaty of Peace, to reſtore that Fortreſs,
+or elſe to procure the Surrender of <hi>Dinant,</hi>
+and after that kept both thoſe Places
+to themſelves. And farther having a
+deſign to encroach always upon their
+Neighbours, and make themſelves ſole
+Arbitrators of their Priviledges, they
+have Erected a Pretended Chamber of
+Re-union at <hi>Metz,</hi> they have cauſed to
+be adjudged to themſelves, under un<g ref="char:EOLhyphen"/>ſufferable
+pretences, the County of
+<hi>Chiny,</hi> and other Lands and Territories
+belonging to His Catholick Majeſty. And
+to make good thoſe Proceedings never
+before practis'd in Times of Peace, the
+ſaid <hi>French</hi> have cauſed ſeveral Bodies of
+Armed Forces to invade and pillage the
+Countries belonging to his Moſt Catho<g ref="char:EOLhyphen"/>lick
+Majeſty; carry'd away, and receiv'd
+Ranſoms of ſeveral Priſoners; poſſeſſed
+themſelves of almoſt all the Dutchey
+of <hi>Luxemburg,</hi> with ſeveral Lands in the
+Provinces of <hi>Hainault, Namur,</hi> and others;
+blocked up the City of <hi>Luxemburg</hi> it ſelf,
+and made all his Majeſties Subjects deeply
+ſenſible of all the Effects of a fierce and
+cruel War.</p>
+            <p>And tho' his moſt Catholick Majeſty,
+out of his deſire to preſerve the Peace of
+Chriſtendom, had made uſe of none but
+Friendly means to ſtop theſe proceed<g ref="char:EOLhyphen"/>ings,
+they have all prov'd ineffectual,
+notwithſtanding all the Remonſtrances
+made on his Part at the Conference at
+<hi>Courtray,</hi> where the moſt Chriſtian King's
+Advocate could not be brought to give
+any Anſwer to the Complaint about re<g ref="char:EOLhyphen"/>newing
+of open Hoſtility, for which Re<g ref="char:EOLhyphen"/>paration
+ought to have been made in
+the firſt place; and not to do as they
+did, ſet on foot at the ſame time, and
+preſs with a great deal of heat, New
+Pretenſions to <hi>Aloſt</hi> and other Places,
+the unjuſtneſs of which Pretenſions,
+when it came to be laid open, and
+that the King's Advocate declared
+his willingneſs to refer himſelf to the De<g ref="char:EOLhyphen"/>ciſion
+of the Commiſſioners of the Two
+Crowns, or in Caſe their Judgements
+were equally divided, to that of Arbi<g ref="char:EOLhyphen"/>trators
+<pb facs="tcp:32717:2" rendition="simple:additions"/>
+to be equally choſen on both
+ſides, according to the Contents of the
+Treaty of Peace, yet the Conference was
+broken off by the <hi>French</hi> Commiſſioners,
+who declared to thoſe of His Catholick
+Majeſty, that his moſt Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty,
+having intelligence, that the Great
+Turk was deſigning a War againſt his
+Imperial Majeſty, was reſolved to leave
+no cauſe of Jealouſie or Suſpicion, which
+might hinder the Chriſtian Princes from
+Oppoſing the Common Enemy; for
+which reaſon he reſolved to raiſe the
+Siege of <hi>Luxemberg,</hi> and refer his Differ<g ref="char:EOLhyphen"/>ences
+with <hi>Spain</hi> to the King of <hi>Great
+Brittain.</hi> However tho' the <hi>French</hi> Com<g ref="char:EOLhyphen"/>miſſioners
+were not ignorant that the
+<hi>Spaniſh</hi> Deputies were not qualified to
+accept of the ſaid Arbitration, and had
+alſo told the other, that they had receiv'd
+no Order about it, yet the <hi>French</hi> de<g ref="char:EOLhyphen"/>parted,
+refuſing to receive ſo much as one
+Paper more, under pretence that their
+Commiſſion was out. Which was all
+one as if his Catholick Majeſty had been
+obliged to refer his Differences with
+<hi>France</hi> to one ſingle Arbitration, choſen
+by the moſt Chriſtian King, contrary
+to the Law of Nations, and the Tenor
+of the Treaty of Peace, procured by the
+Mediation of the King of <hi>Great Brittain.</hi>
+In the Execution of which, nothing could
+have been more Natural than to have
+made uſe of the ſame Mediation which
+was ſeveral times ſought by his Majeſty
+and his Allies, and accepted by him, in
+purſuance of the kind Offices which the
+King of <hi>Great Brittain</hi> had offered to that
+purpoſe. But <hi>France</hi> regarding nothing
+ſo much as the enlaging her Dominion,
+has refuſed this Mediation, and Marſhal
+<hi>D'Humiers</hi> upon the laſt Day of <hi>Auguſt</hi>
+paſt, and the fiftieth of the Siege of <hi>Vienna,</hi>
+the Brigadeer <hi>Dasfeld,</hi> to give us Notice,
+That the moſt Chriſtian King not having
+been able to obtain any Satisfaction in
+order to his Pretenſions to <hi>Aloſt,</hi> and other
+Places mentioned in the Paper exhibited
+by his Advocate at <hi>Courtray,</hi> had ſent
+him Orders to Rendevouz his Army
+and to enter thoſe Countries, and yet all
+this while pretending he would Act no<g ref="char:EOLhyphen"/>thing
+againſt the Peace, if he were not
+interrupted in his Deſign, and that the
+<hi>Spaniards</hi> did not oppoſe his Demands.
+Which ſeeming to us ſo much the more
+Aſtoniſhing, in regard it belong'd to
+<hi>France</hi> to purſue her Pretences by the regu<g ref="char:EOLhyphen"/>lar
+means propounded in the Treaty of
+<hi>Nimegen,</hi> or to enter into a Negotiation
+by the Mediation of the King of <hi>England,</hi>
+and that therefore it was a manifeſt Con<g ref="char:EOLhyphen"/>tradiction
+to pretend at the ſame time,
+not to Act againſt the Peace, and yet
+employ force of Arms to obtain that by
+Violence which was to be at the Diſpo<g ref="char:EOLhyphen"/>ſal
+of Formal Juſtice.</p>
+            <p>We therefore upon the whole return'd
+this Anſwer to the <hi>Brigadeer,</hi> That his
+Commiſſion ſtrangely ſurpriſed us; That
+we thought our ſelves in a profound
+Peace; and that the Treaty of <hi>Nimeguen</hi>
+had diſtinctly explained and determin'd
+how all differences were to be adjuſted in
+an Amicable manner; that no man could
+well believe, eſpecially conſidering the
+preſent Condition of Chriſtendom, that
+ever any alterations would have been
+made ſo contrary to the ſaid Peace;
+That his moſt Catholick Majeſty had an
+Ambaſſador at <hi>Paris,</hi> and the moſt Chri<g ref="char:EOLhyphen"/>ſtian
+King another at <hi>Madrid,</hi> where the
+Demands ſhould have been propounded
+on both ſides, That his Majeſty had en<g ref="char:EOLhyphen"/>truſted
+him to defend, not to ſurrender
+up thoſe Provinces, or any part of 'em.</p>
+            <p>But the King of <hi>France</hi> not content with ſo ra<g ref="char:EOLhyphen"/>tional
+an Anſwer, and continuing to put his Claim
+to the deciſion of a War, has cauſed ſeveral
+Body's of Armed Forces to fall with ruin and havock
+upon the Territories and Subjects of his Catholick
+Majeſty, without taking the leaſt Notice of the
+kind offers of the King of <hi>England,</hi> or of what the
+Pope has tendred by his Extraordinary Nuntio,
+and others of the Allies. He has ſeized upon the
+Cities and Towns of <hi>Leſſines, Beaumont, Chimay,
+Walcourt, Bovignes,</hi> and others, where his Troops
+for theſe five Weeks and more have committed
+and ſtill continue to commit all manner of Vio<g ref="char:EOLhyphen"/>lences
+in all parts under Obedience to his Catholick
+Majeſty; ſending their Commands for the payment
+of vaſt Contributions double and treble what was
+pay'd in the War. They have fallen upon his
+Majeſties Subjects, they have taken away their
+Cattel, and Corn, and other Proviſions, carry'd
+away Priſoners, beat down Houſes, and committed
+an abundance of other Enormities, which viſibly
+tends to an Abſolute Breach. Seeing therefore,
+we have uſed all Amicable Means, ſince all Inter<g ref="char:EOLhyphen"/>poſition
+and Mediation proves in-effectual, nor can
+prevail to bend and molifie the Rigor, with which
+the <hi>French</hi> Troops continue to overwhelm His Maje<g ref="char:EOLhyphen"/>ſties
+Subjects to their Total deſtruction, and while the
+Injuries they endure do but ſerve to bring a greater
+continually upon 'em, acd fot that they have moſt
+feelingly beſought us, not to permit them to be
+reduced under the Servitude of <hi>France,</hi> by ſuch a
+ruinous Deſolation. We find our ſelves obliged by
+the Duty of our Charge, to give Order to all Ge<g ref="char:EOLhyphen"/>nerals,
+Governours of Provinces, Serjeant Majors of
+Battalia, Particular Governours, Commanders,
+Chiefs, Maſters of Camp, Collonels, Captains, and
+all other Officers and Soldiers, as well Horſe as Foot,
+of what Nation or Quality ſoever; and to
+all his Majeſties Subjects, to Oppoſe all ſuch
+Attempts and Proceedings of the Enemy, in the
+Territories of his Majeſty, to repell Force by Force,
+and to make uſe of ſuch means as God and Nature
+has afforded them, to defend and guard themſelves
+from the unheard of Violences and Cruelties which
+they commit. Commanding you hereby to be
+Conform to theſe Commands, and to do and cauſe
+to be executed all things according to the Tenor
+of theſe Preſents, by all that are under your Com<g ref="char:EOLhyphen"/>mands.</p>
+            <closer>
+               <dateline>Bruſſels, <date>Octob. 12. 1683.</date>
+               </dateline>
+               <signed>Signed,
+O. H. M. D'ALCARETTO.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed for</hi> R. Baldwin, <hi>in the</hi> Old-Bailey. 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
